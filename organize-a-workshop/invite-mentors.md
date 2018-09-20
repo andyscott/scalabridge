@@ -58,3 +58,8 @@ Please put your name and contact info if you're interested in being a mentor for
 | ------------------------- |:-------------------------------------------------:| -------------------------------:|
 | Stewart Stewart           | stewinsalot@gmail.com                             | Yes                             |
 
+### Seattle
+| Name                      | Contact Info (Email or Twitter handle if DM open) | Mentored in ScalaBridge Before? |
+| ------------------------- |:-------------------------------------------------:| -------------------------------:|
+| Andy Scott                | [@andygscott](https://twitter.com/noelwelsh)      | Yes                             |
+
